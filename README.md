@@ -26,5 +26,5 @@ For this part of the project, the objective was to implement various operations 
         Effective memory management and debugging with Valgrind
 
 Relevant Files:
-'ulliststr.h' & 'ulliststr.cpp': implementation of the unrolled linked list and its operations. /n
+'ulliststr.h' & 'ulliststr.cpp': implementation of the unrolled linked list and its operations.
 'test_ulliststr.cpp': spare file for making tests to verify unrolled linked list operations behavior.
