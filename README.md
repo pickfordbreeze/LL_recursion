@@ -3,7 +3,7 @@
 ## C++ Linked lists with recursion project. Completed 01/26/24
 
 ### Project Overview:
-This repo contains two related projects which I submitted for class spring 2024. They are 1) the implementation of a recursive linked list split function, and 2) operations on an unrolled linked list. I achieved a perfect score on this assignmen through following all limitations, meeting all run-time requirements, passing all test cases, commenting out my work, and using methods taught in class. 
+This repo contains two related projects which I submitted for class spring 2024. They are 1) the implementation of a recursive linked list split function, and 2) operations on an unrolled linked list. I achieved a perfect score on this assignment through following all limitations, meeting all run-time requirements, passing all test cases, commenting out my work, and using methods taught in class. 
 
 #### Part 1 - Recursive Linked List Split:
 The objective was to create a recursive function to split a sorted singly linked list of integers into two seperate linked lists -- one for odd numbers and another for even. No iterative programming constructs were allowed.
