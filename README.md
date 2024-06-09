@@ -14,8 +14,8 @@ The objective was to create a recursive function to split a sorted singly linked
         Proficiency in pointer use and memory management, veried using Valgrind
 
 Relevant Files:
-'split.h' & 'split.cpp': contain the recursive split function and its declaration
-'test_split.cpp': spare file for making tests to verify correct behavior of split function
+'split.h' & 'split.cpp': contain the recursive split function and its declaration.
+'test_split.cpp': spare file for making tests to verify correct behavior of split function.
 
 #### Part 2 - Unrolled Linked List Operations:
 For this part of the project, the objective was to implement various operations on an unrolled linked list, which stores multiple data items per node to enhance memory performance. The challenge lay in ensuring all the operations I implemented would run in constant time (O(1)) while making sure there were no memory issues.
@@ -26,5 +26,5 @@ For this part of the project, the objective was to implement various operations 
         Effective memory management and debugging with Valgrind
 
 Relevant Files:
-'ulliststr.h' & 'ulliststr.cpp': implementation of the unrolled linked list and its operations
-'test_ulliststr.cpp': spare file for making tests to verify unrolled linked list operations behavior
+'ulliststr.h' & 'ulliststr.cpp': implementation of the unrolled linked list and its operations. /n
+'test_ulliststr.cpp': spare file for making tests to verify unrolled linked list operations behavior.
