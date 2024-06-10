@@ -8,10 +8,11 @@ This repo contains two related projects which I submitted for class spring 2024.
 #### Part 1 - Recursive Linked List Split:
 The objective was to create a recursive function to split a sorted singly linked list of integers into two seperate linked lists -- one for odd numbers and another for even. No iterative programming constructs were allowed.
 
-    Skills demonstrated:
+```    Skills demonstrated:
         Mastery of recursive functions
         In-depth understandinng of linked list operations
         Proficiency in pointer use and memory management, veried using Valgrind
+```
 
 Relevant Files:
 'split.h' & 'split.cpp': contain the recursive split function and its declaration.
